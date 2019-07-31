@@ -1,4 +1,4 @@
 {
-    "6.7.0":"https://github.com/maisajordaEC/NewRelicAgent/raw/master/6.7.0/NewRelicAgent.zip",
+    "6.7.0":"https://elasticbeanstalk-us-east-1-775691333168.s3.amazonaws.com/assets/iOS/NewRelicAgent.zip",
     "6.6.0":"https://github.com/maisajordaEC/NewRelicAgent/raw/master/6.6.0/NewRelicAgent.zip"
 }
